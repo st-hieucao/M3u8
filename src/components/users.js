@@ -30,7 +30,7 @@ const Users = () => {
                     </Alert> :
                     null
             }
-            <Container fluid>
+            {/* <Container fluid>
 
                 <Row style={{ justifyContent: 'center', alignItems: 'center' }}>
                     {data.map((user) => (
@@ -41,7 +41,7 @@ const Users = () => {
 
                 </Row>
 
-            </Container>
+            </Container> */}
         </div>
     )
 }
